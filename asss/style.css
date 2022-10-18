@@ -1,0 +1,21 @@
+.box {
+    height: 100px;
+    width: 100px;
+    outline: 3px solid black;
+  }
+  .big {
+    height: 300px;
+    width: 300px;
+  }
+  .lightblue {
+    background-color: lightblue;
+  }
+  .red {
+    background-color: red; position: absolute;
+    transform: translate(-50 -50);}
+    .dd{
+        outline: 5px solid brown;
+        background-color: chocolate;
+        width: 120%;
+        height: 100vh;
+    }
